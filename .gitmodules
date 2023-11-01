@@ -1,4 +1,4 @@
 [submodule "OpenGlExperiments/external/glfw"]
 	path = OpenGlExperiments/external/glfw
-	url = https://github.com/glfw/glfw.git
-	branch = 3.3.8
+	url = https://github.com/KyleDulce/glfw.git
+	branch = release-3.3.8
