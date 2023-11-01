@@ -7,3 +7,4 @@ cmake_minimum_required (VERSION 3.8)
 add_executable (OpenGlExperiments "OpenGlExperiments.cpp" "OpenGlExperiments.h")
 
 # TODO: Add tests and install targets if needed.
+target_link_libraries (OpenGlExperiments glfw)
